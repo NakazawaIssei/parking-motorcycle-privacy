@@ -1,0 +1,5 @@
+# Static one-page site: the repository root is what gets published, and there
+# is nothing to build.
+[build]
+  publish = "."
+  command = ""
